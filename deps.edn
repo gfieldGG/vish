@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {clj-time/clj-time {:mvn/version "0.15.2"}}
+ :aliases 
+ {:neil {:project {:name vish/vish}}}}
