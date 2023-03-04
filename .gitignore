@@ -12,3 +12,11 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+
+# clojure-lsp
+.lsp
+output.calva-repl
+.clj-kondo
+/clojure-lsp*
+
+.calva
